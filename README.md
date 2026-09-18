@@ -1,10 +1,3 @@
-# VerifAI
-
-**Deepfake & Digital Media Authenticity Verification** — built for BRAINWAVE 2026 (ACTS EDC) by **Team SEELE**, UCER.
-
-Upload an image, get back an authenticity score with a full evidence breakdown — not just a "real/fake" label with no reasoning.
-
-> Live demo repo: https://github.com/SwarN1M/verifai-prototype
 
 ## What it does
 
