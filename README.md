@@ -130,7 +130,3 @@ For video, extract the audio track first with `ffmpeg -i video.mp4 -q:a 0 -map a
 ## License
 
 MIT — see [LICENSE](LICENSE).
-
-## Team
-
-**SEELE** · UCER · Team Leader: Shaurya Pandey
